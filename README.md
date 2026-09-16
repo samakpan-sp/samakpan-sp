@@ -9,7 +9,8 @@ Full Stack Web developer with expertise in React and Flask. Eager to contribute 
 * 🌍  I'm based in I based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Github](http://https://github.com/samakpan-sp)
 * ✉️  You can contact me at [samakpan817@gmail.com](mailto:samakpan817@gmail.com)
-* 🚀  I'm currently working on [My Portfolio](http://https://github.com/samakpan-sp/sam-portfolio)
+* 🚀  I'm currently working on TRACY: AI-Assisted Digital Trust Investigation Platform
+
 * 🧠  I'm learning Postman and Node.js
 * 🤝  I'm open to collaborating on Open source projects
 * ⚡  My father missed becoming the World best Carpenter.

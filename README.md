@@ -18,7 +18,7 @@ technology and communicating it clearly.
 
 Have a problem? Let's build the solution.
 
-* 🌍  I'm based in Based in Lagos, NIgeria
+* 🌍  Based in Lagos, NIgeria
 * 🖥️  See my portfolio at [https://samindexpage.onrender.com](http://https://samindexpage.onrender.com)
 * ✉️  You can contact me at [samakpan817@gmail.com](mailto:samakpan817@gmail.com)
 * 🚀  I'm currently working on [TRACY: AI-Assisted Digital Trust Investigation Platform](http://tracy.onrender.com)

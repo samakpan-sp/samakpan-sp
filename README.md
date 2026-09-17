@@ -1,7 +1,7 @@
 Hi 👋 My name is Samuel Akpan (Samindex)
 ========================================
 
-Software, AI Engineer & STEM Educator — Lagos, Nigeria
+Software, AI Engineer & STEM Educator 
 ------------------------------------------------------
 
 I build full-stack software and AI-powered solutions that solve real
